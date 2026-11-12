@@ -23,3 +23,4 @@ SHA3-512 commitments for vulnerability reports I sent privately. Each hash cover
 | 2026-11-04 | `30bdf1068c5e7032f583f2300bf2d3080d71c70a6f72e643558cce7c775ba37469c5f2d7f914bb6342cc7bbd5bdded69bfa14605c6a544886f3b43682752893f` | [ferriskey/ferriskey GHSA-jg3w-w3jj-3fj9](https://github.com/ferriskey/ferriskey/security/advisories/GHSA-jg3w-w3jj-3fj9) |
 | 2026-11-04 | `d412ba643672313e35b30152be8c16b57af292b211e891d77db9bfc1e252792d6f663b216adbfbedcb09d532418fbde24f5f62b0904f96565d1612cf6107f762` |  |
 | 2026-11-12 | `ff850980befeced0e21bfb9ddabe07bd3dbdcdef2720df4a50c40345d5d6568c1961bc9a5a3191f771b80b7b88e7cde48886799bd40e4146329781cba2a2b04b` |  |
+| 2026-11-13 | `1641037ef319230f6cfcf0f4ca94eca439201d5c9ef97bcba3d497f91f8afa75f5f5afe7580d76a928f1fc345360808af81c43a0e1bb337cf4ebf8beba416355` |  |
